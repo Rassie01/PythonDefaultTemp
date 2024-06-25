@@ -33,7 +33,7 @@ my_project/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my_project.git
+   git clone https://github.com/Rassie01/PythonDefaultTemp.git
    cd my_project
 
 ## Create a virtual environment (optional but recommended):
